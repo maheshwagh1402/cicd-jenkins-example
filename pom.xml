@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.techprimers.jenkins</groupId>
-	<artifactId>cicd-jenkins-example</artifactId>
+	<artifactId>cicd-jenkins</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>cicd-jenkins-example</name>
+	<name>cicd-jenkins</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
